@@ -33,7 +33,7 @@ export default function Portfolio() {
   const projects = [
     {
       name: "TradeLog",
-      link: "https://tradelog-client.vercel.app",
+      link: "https://www.linkedin.com/posts/mohammed-arshid-20940a2b4_mernstack-reactjs-nodejs-activity-7378747417015468032-9lCC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuF9KkBKibl5Z2rd0ELWkkDS0HciWdFqJo",
       description: "Full-stack trading journal application with JWT authentication, role-based access control, and admin dashboard",
       highlights: [
         "Secure JWT-based authentication with HTTP-only cookies",
@@ -45,7 +45,7 @@ export default function Portfolio() {
     },
     {
       name: "CineScope",
-      link: "https://cinescope-demo.vercel.app",
+      link: "https://www.linkedin.com/posts/mohammed-arshid-20940a2b4_built-cinescope-a-mini-movie-review-app-activity-7379877756223881216-Cc42?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEuF9KkBKibl5Z2rd0ELWkkDS0HciWdFqJo",
       description: "Front-end movie review application with client-side role-based access control",
       highlights: [
         "Redux state management with localStorage",
